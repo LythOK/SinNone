@@ -11,7 +11,7 @@
 
 - I’m looking to collaborate on **Spoofers**
 
-- I’m looking for help with **Cleaners**
+- I’m looking for help with **Spoofers and cheats**
 
 - All of my projects are available at [https://github.com/SinNone/](https://github.com/SinNone/)
 
